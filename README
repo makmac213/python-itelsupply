@@ -7,9 +7,8 @@ $ pip install itelsupply
 Sample Usage
 ============
 
-from itelsupply.core import ITelSupply
-itelsupply = ITelSupply('[tel_number')
+>>> from itelsupply.core import ITelSupply
+>>> itelsupply = ITelSupply('[tel_number]')		# prints status code
+200 
+>>> itelsupply.data.json()
 
-
-Code Documentation
-==================
