@@ -12,6 +12,7 @@ setup(
     author=itelsupply.__author__,
     author_email=itelsupply.__author_email__,
     packages=['itelsupply'],
+    install_requires=['requests==2.0.1'],
     url=itelsupply.__app_url__,
     classifiers=(
         'Development Status :: 4 - Beta',

@@ -6,4 +6,5 @@ itelsupply/core.py
 itelsupply.egg-info/PKG-INFO
 itelsupply.egg-info/SOURCES.txt
 itelsupply.egg-info/dependency_links.txt
+itelsupply.egg-info/requires.txt
 itelsupply.egg-info/top_level.txt
